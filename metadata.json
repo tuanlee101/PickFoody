@@ -1,0 +1,6 @@
+{
+  "name": "Trưa Nay Ăn Gì Hoàn Kiếm - Vòng Quay Món Ngon Phố Cổ",
+  "description": "Vòng quay may mắn chọn món ăn trưa đặc sản quanh khu Hoàn Kiếm & Phố Cổ Hà Nội, hiệu ứng mượt mà và lưu lịch sử thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
